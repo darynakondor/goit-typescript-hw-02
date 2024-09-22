@@ -1,0 +1,23 @@
+.header {
+    padding: 20px 0;
+    background-color: rgb(22, 22, 196);
+    box-shadow: 20px 10px 17px rgb(0, 0, 0, 0.25);
+}
+.headerForm {
+    text-align: center;
+    display: flex;
+    gap: 5px;
+    justify-content: center;
+}
+
+.inp {
+    width: 20%;
+    padding: 10px 15px;
+    border-radius: 3px;
+    outline: none;
+}
+.btn {
+    width: 10%;
+    height: 40px;
+    border-radius: 3px;
+}

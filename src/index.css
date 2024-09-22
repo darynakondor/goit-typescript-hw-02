@@ -1,0 +1,51 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  font-size: 16px;
+}
+button, input {
+  font-size: inherit;
+  border: none;
+}
+button {
+  cursor: pointer;
+  background-color: rgb(222, 248, 78);
+  transition: .3s;
+}
+button:hover {
+  background-color: rgb(227, 240, 153);
+}
+li {
+  list-style: none;
+}
+image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+.container {
+  max-width: 1440px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+.home {
+  padding: 50px 0;
+}
+.ReactModal__Overlay {
+  background-color: rgba(0, 0, 0, 0.754) !important;
+  cursor: pointer;
+}
+
+.go2072408551 {
+  background-color: rgb(231, 56, 13) !important;
+  color: #ffffff !important;
+  font-size: 18px;
+}
+
+.magnifying-glass-wrapper {
+  margin: 50px auto 0;
+  display: block;
+}

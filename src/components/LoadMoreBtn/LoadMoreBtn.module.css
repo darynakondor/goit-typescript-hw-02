@@ -1,0 +1,10 @@
+.btnContainer {
+    width: 100%;
+    text-align: center;
+    margin-top: 50px;
+}
+.btn {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
